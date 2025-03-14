@@ -17,6 +17,9 @@
 // $link-hover-color: grey;
 // $font-family-sans-serif: "Helvetica Neue";
 
+$primary: #212529;
+$body-bg: #ffffff;
+
 // Import Bootstrap styles:
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
@@ -38,4 +41,16 @@
 header {
   background: url("../img/pirate-ship.jpg") no-repeat center;
   background-size: cover;
+}
+
+h1.display-4 {
+  font-family: "Grenze", serif;
+  }
+
+.card-footer {
+  background-color: #63ada0;
+}
+
+.figure-caption, .tagline {
+  font-size: 18px;
 }
