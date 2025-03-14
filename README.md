@@ -1,4 +1,4 @@
-# Noah's Bootstrap practice
+# Noah's Bootstrap mastery
  
  By Noah, Intro Coding for Journalists class
  
